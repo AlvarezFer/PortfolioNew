@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be95289e.css",
+    "main.js": "/static/js/main.c44a3dd4.js",
+    "static/media/IMG_9964.jpg": "/static/media/IMG_9964.6316c9a6d911471698c0.jpg",
+    "static/media/constructores.jpg": "/static/media/constructores.20db5c5f0c06d0285568.jpg",
+    "static/media/Calculadora.jpg": "/static/media/Calculadora.09d9dccff76c5c7a1952.jpg",
+    "static/media/peliculas.jpg": "/static/media/peliculas.c9443dcc3209f99e2eb9.jpg",
+    "static/media/imgProg.webp": "/static/media/imgProg.d3d9b7b83956ea06a58d.webp",
+    "static/media/reserva.jpeg": "/static/media/reserva.1404c566bcc6ff51a2a0.jpeg",
+    "static/media/ecommerce2.jpg": "/static/media/ecommerce2.3199bdbdda6cd36af8c4.jpg",
+    "static/media/play.jpg": "/static/media/play.526fe9e122ac2ff0b1aa.jpg",
+    "static/media/portfolio.svg": "/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/contact.svg": "/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/about.svg": "/static/media/about.192e39ff229e6eb06083.svg",
+    "index.html": "/index.html",
+    "main.be95289e.css.map": "/static/css/main.be95289e.css.map",
+    "main.c44a3dd4.js.map": "/static/js/main.c44a3dd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be95289e.css",
+    "static/js/main.c44a3dd4.js"
+  ]
+}
