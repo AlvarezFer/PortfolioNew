@@ -33,7 +33,7 @@ const About = () => {
                 relevantes, así como una breve descripción de cada uno de ellos.
                 Me enorgullece ser parte de la comunidad de programadores, y
                 estoy muy emocionado de continuar aprendiendo y creciendo en
-                esta industria. Si tienes alguna pregunta o deseas saber más
+                esta industria. Si tenes alguna pregunta o deseas saber más
                 sobre mi trabajo, no dudes en ponerte en contacto conmigo.
               </p>
             </div>
