@@ -6,7 +6,7 @@ const Project = ({ item }) => {
       {" "}
       <div className="mb-8">
         {" "}
-        <a href={item.href}>
+        <a href={item.href} target="_blank">
           <img
             className="rounded-2xl"
             src={item.image}
@@ -21,7 +21,7 @@ const Project = ({ item }) => {
       >
         {item.category}
       </p>{" "}
-      <a href={item.href}>
+      <a href={item.href} target="_blank">
         {" "}
         <h3
           className="text-2xl font-semibold capitalize mb-3"
