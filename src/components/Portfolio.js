@@ -7,8 +7,6 @@ const Portfolio = () => {
     <section id="portfolio" className="section bg-primary min-h-[1400px]">
       <br></br>
       <br></br>
-      <br></br>
-      <br></br>
 
       <div className="container mx-auto">
         <div className="flex flex-col items-center text-center">
