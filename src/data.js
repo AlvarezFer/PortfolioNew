@@ -60,7 +60,7 @@ export const projectsData = [
     image: Project1,
     name: "Calculadora",
     description: "Realizado con React Js",
-    href: "https://calreactjs.netlify.app/",
+    href: "https://calc-van-js.netlify.app/",
     category: "Web App",
   },
   {
