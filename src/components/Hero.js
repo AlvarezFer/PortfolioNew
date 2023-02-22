@@ -35,7 +35,7 @@ const Hero = () => {
               src={imgProg}
               alt=""
               className="rounded-2xl "
-              style={{ height: "400px", marginTop: "44px" }}
+              style={{ height: "380px", marginTop: "44px" }}
             />
           </div>
         </div>
