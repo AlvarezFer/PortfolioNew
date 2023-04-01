@@ -8,7 +8,7 @@ const Project = ({ item }) => {
         {" "}
         <a href={item.href} target="_blank" rel="noopener noreferrer">
           <img
-            className="rounded-2xl"
+            className="rounded-2xl transform hover:scale-110 transition duration-300"
             src={item.image}
             alt=""
             style={{ height: "200px" }}

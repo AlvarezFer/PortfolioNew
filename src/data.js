@@ -56,28 +56,12 @@ export const social = [
 // projects
 export const projectsData = [
   {
-    id: "1",
-    image: Project1,
-    name: "Calculadora",
-    description: "Realizado con React Js",
-    href: "https://calc-van-js.netlify.app/",
-    category: "Web App",
-  },
-  {
     id: "2",
     image: Project2,
     name: "Web de empresa constructora",
     description: "Realizado con Html,Css,JavaScript",
     href: "http://grupoingeniar.com/",
     category: "Web Development",
-  },
-  {
-    id: "3",
-    image: Project3,
-    name: "Color Game",
-    description: "Realizado con Html,Css,JavaScript",
-    href: "https://colorgame-js.netlify.app/",
-    category: "Games",
   },
   {
     id: "4",
@@ -87,6 +71,24 @@ export const projectsData = [
     href: "https://github.com/AlvarezFer/project-tmdb.git",
     category: "Web Development",
   },
+  {
+    id: "1",
+    image: Project1,
+    name: "Calculadora",
+    description: "Realizado con React Js",
+    href: "https://calc-van-js.netlify.app/",
+    category: "Web App",
+  },
+
+  {
+    id: "3",
+    image: Project3,
+    name: "Color Game",
+    description: "Realizado con Html,Css,JavaScript",
+    href: "https://colorgame-js.netlify.app/",
+    category: "Games",
+  },
+
   {
     id: "5",
     image: Project5,
